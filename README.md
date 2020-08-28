@@ -1,2 +1,2 @@
-# antidote
-A blacklist to keep the internet clean.
+# Antidote
+A blocklist to keep the internet clean.
