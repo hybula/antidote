@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (21:09:03 01-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (22:09:03 01-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1494,6 +1494,14 @@
         "AS47920",
         "UA",
         "COMREC, UA",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS47967",
+        "RO",
+        "Sc Neoland Srl",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3051,6 +3059,14 @@
         "-"
     ],
     [
+        "AS203320",
+        "RO",
+        "Next Stride Srl",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS203405",
         "RU",
         "ASTELENETMEDIA LLC Telenet-Media,RU",
@@ -3126,6 +3142,14 @@
         "AS204085",
         "GB",
         "Next Global Services L.p.",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS204089",
+        "RO",
+        "Neoland SRL",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3654,6 +3678,14 @@
         "AS213322",
         "LT",
         "Venito Reklama, UAB",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS213367",
+        "DE",
+        "Neoland Logic Solutions SRL",
         "Malicious",
         "Spamhaus",
         "-"
