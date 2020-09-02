@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (21:09:04 02-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (22:09:04 02-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -3646,6 +3646,14 @@
         "AS209999",
         "DE",
         "ASINTSOLLLC, DE",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS210015",
+        "CZ",
+        "Interface Services LLC",
         "Malicious",
         "Spamhaus",
         "-"
