@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (21:00:42 07-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (23:00:48 07-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -2715,14 +2715,6 @@
         "-"
     ],
     [
-        "AS200603",
-        "GB",
-        "JOB-MASTERS-SRL, RO",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS200617",
         "PE",
         "FRAMEDESIGN, BG",
@@ -2742,14 +2734,6 @@
         "AS200859",
         "LT",
         "SPSBUILDING, BG",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS201117",
-        "GB",
-        "Ebone Net Srl",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2886,14 +2870,6 @@
         "AS202533",
         "US",
         "Forcenet_LLC",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS202585",
-        "GB",
-        "NETHOSTINGTECH, GB",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3219,25 +3195,9 @@
         "-"
     ],
     [
-        "AS205021",
-        "",
-        "Creative One LLC",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS205124",
         "MD",
         "AS_TELEHOST_COLO, MD",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS205422",
-        "BR",
-        "GIGACOLLOCATIONLLC, FR",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3326,14 +3286,6 @@
         "AS205884",
         "MD",
         "ENGR-CIORESCU, MD",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS205920",
-        "RU",
-        "XAGONHOSTINGLLC, PT",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3523,16 +3475,8 @@
         "-"
     ],
     [
-        "AS207239",
-        "CZ",
-        "VPINET, CZ",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS208476",
-        "DE",
+        "GB",
         "Danilenko, Artyom",
         "Malicious",
         "Spamhaus",
@@ -3621,7 +3565,7 @@
     [
         "AS210015",
         "CZ",
-        "Interface Services LLC",
+        "INTERFACEALL, CZ",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3635,8 +3579,16 @@
         "-"
     ],
     [
+        "AS212811",
+        "GB",
+        "Eurowaste Management Srl",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS213058",
-        "BZ",
+        "NL",
         "Private Internet Hosting LTD",
         "Malicious",
         "Spamhaus",
