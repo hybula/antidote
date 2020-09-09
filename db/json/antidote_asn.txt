@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (21:01:22 09-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (22:01:25 09-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -2851,6 +2851,14 @@
         "-"
     ],
     [
+        "AS202469",
+        "DK",
+        "IPv4 Hosting SRL",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS202470",
         "MD",
         "CLOUD-NETWORK, MD",
@@ -3397,7 +3405,7 @@
     [
         "AS206654",
         "MD",
-        "TEHNOINSTAL, MD",
+        "Tehnoinstal Srl",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3516,7 +3524,7 @@
     ],
     [
         "AS209623",
-        "??",
+        "NL",
         "David Craig",
         "Malicious",
         "Spamhaus",
@@ -3550,6 +3558,14 @@
         "AS209843",
         "",
         "PlanB Infrastructure Services\/ LLC",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS209896",
+        "MD",
+        "Infocloud Group Srl",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3590,6 +3606,14 @@
         "AS213058",
         "NL",
         "Private Internet Hosting LTD",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS213137",
+        "NL",
+        "Infocloud Srl",
         "Malicious",
         "Spamhaus",
         "-"
