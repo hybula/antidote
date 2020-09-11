@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (21:00:49 11-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (22:00:48 11-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1614,6 +1614,14 @@
         "AS49443",
         "NL",
         "SISTEME, MD",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS49447",
+        "IT",
+        "Nice IT Services Group Inc.",
         "Malicious",
         "Spamhaus",
         "-"
