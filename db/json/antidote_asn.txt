@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (22:00:54 17-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (23:00:54 17-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1230,6 +1230,22 @@
         "AS42229",
         "PT",
         "EBT-AS, PT",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS42457",
+        "ES",
+        "JOHNBART SOFTWARE & MUSIC S.L",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS42462",
+        "ES",
+        "Moneyback, S.L.",
         "Malicious",
         "Spamhaus",
         "-"
