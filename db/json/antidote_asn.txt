@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (22:00:49 26-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (23:00:49 26-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -502,6 +502,14 @@
         "AS17997",
         "CN",
         "China Enterprise Communications Ltd.",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS18013",
+        "HK",
+        "ASLINE LIMITED",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2467,6 +2475,14 @@
         "-"
     ],
     [
+        "AS133320",
+        "IN",
+        "Alpha Infolab Private limited",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS133855",
         "CN",
         "INFOLINK-AS Infolink Communications,HK",
@@ -2556,7 +2572,7 @@
     ],
     [
         "AS137951",
-        "US",
+        "ZA",
         "Clayer Limited",
         "Malicious",
         "Spamhaus",
@@ -3508,7 +3524,7 @@
     ],
     [
         "AS208476",
-        "NL",
+        "GB",
         "Danilenko, Artyom",
         "Malicious",
         "Spamhaus",
