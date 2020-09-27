@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (22:00:52 27-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (23:00:52 27-09-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -549,7 +549,7 @@
     [
         "AS19531",
         "US",
-        "NODESDIRECT",
+        "NODESDIRECT, US",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1636,8 +1636,8 @@
     ],
     [
         "AS49443",
-        "NL",
-        "SISTEME, MD",
+        "MD",
+        "Sisteme Avansate SRL",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3644,7 +3644,7 @@
     ],
     [
         "AS213058",
-        "RU",
+        "NL",
         "Private Internet Hosting LTD",
         "Malicious",
         "Spamhaus",
