@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (18:00:53 11-10-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (00:00:56 12-10-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -62,6 +62,14 @@
         "AS5541",
         "IL",
         "INVITE Systems SRL",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS5755",
+        "US",
+        "QNETIX-AS",
         "Malicious",
         "Spamhaus",
         "-"
