@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (00:00:44 25-10-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (05:00:43 25-10-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -373,7 +373,7 @@
     [
         "AS13332",
         "US",
-        "Hype Enterprises",
+        "HYPEENT-SJ",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2326,6 +2326,14 @@
         "AS62878",
         "US",
         "Xlitt",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS62922",
+        "US",
+        "Clickjet Media",
         "Malicious",
         "Spamhaus",
         "-"
