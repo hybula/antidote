@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (00:00:51 18-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (06:00:53 18-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -3446,6 +3446,14 @@
         "AS206590",
         "MD",
         "SIS-TRANSIT, MD",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS206592",
+        "ES",
+        "Rockthetraveller, SL",
         "Malicious",
         "Spamhaus",
         "-"
