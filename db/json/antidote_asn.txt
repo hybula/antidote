@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (00:00:50 22-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (06:01:00 22-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1573,7 +1573,7 @@
     [
         "AS48266",
         "RO",
-        "EPOGEN, RO",
+        "SC Epogen Media SRL",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2347,6 +2347,14 @@
         "-"
     ],
     [
+        "AS62927",
+        "US",
+        "Moose-Tec",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS63043",
         "US",
         "ZERO DDOS LLC",
@@ -2765,7 +2773,7 @@
     [
         "AS200557",
         "RU",
-        "Region40 LLC",
+        "IT-KM LLC",
         "Malicious",
         "Spamhaus",
         "-"
