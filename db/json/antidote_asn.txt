@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (00:00:50 25-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (06:00:50 25-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -356,8 +356,8 @@
     ],
     [
         "AS12679",
-        "LB",
-        "Iceberg Telecom Ltd.",
+        "LT",
+        "Sokolov Dmitry Nikolaevich",
         "Malicious",
         "Spamhaus",
         "-"
@@ -670,6 +670,14 @@
         "AS22893",
         "US",
         "CYBERWORLD-INT - Cyber World Internet Services, Inc., US",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS22979",
+        "US",
+        "DUPACO-COM-BGP",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1269,7 +1277,7 @@
     [
         "AS42861",
         "RU",
-        "FOTONTELECOM-TRANSIT-AS FOTONTELECOM ISP, RU",
+        "Foton Telecom CJSC",
         "Malicious",
         "Spamhaus",
         "-"
