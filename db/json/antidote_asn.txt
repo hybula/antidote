@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (00:00:51 27-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (06:00:52 27-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1262,6 +1262,14 @@
         "AS42462",
         "ES",
         "Moneyback, S.L.",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS42602",
+        "UA",
+        "KING-TRANS-AS, UA",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2827,6 +2835,14 @@
         "-"
     ],
     [
+        "AS201292",
+        "FR",
+        "BETECH BeTech Solution SASU,FR",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS201351",
         "ZA",
         "FILMATA _FILMATA_ LTD,BG",
@@ -3227,6 +3243,14 @@
         "-"
     ],
     [
+        "AS204293",
+        "UA",
+        "LLC SOLAR STRATEGIA",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS204333",
         "DE",
         "KING-HEBERG, EE",
@@ -3248,6 +3272,14 @@
         "Novogara LTD",
         "Malicious",
         "Hybula",
+        "-"
+    ],
+    [
+        "AS204815",
+        "UA",
+        "AS204815 LLC SOLAR STRATEGIA",
+        "Malicious",
+        "Spamhaus",
         "-"
     ],
     [
@@ -3278,6 +3310,14 @@
         "AS205124",
         "ES",
         "Telehost SRL",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS205145",
+        "UA",
+        "STARTTELECOM, UA",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3604,7 +3644,7 @@
     ],
     [
         "AS209623",
-        "SE",
+        "NL",
         "David Craig",
         "Malicious",
         "Spamhaus",
@@ -3646,6 +3686,14 @@
         "AS209896",
         "NL",
         "Infocloud Group Srl",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS209946",
+        "UA",
+        "ALINDA LLC",
         "Malicious",
         "Spamhaus",
         "-"
