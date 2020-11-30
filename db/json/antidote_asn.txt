@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (00:09:03 30-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (06:09:03 30-11-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1150,6 +1150,14 @@
         "AS39536",
         "LT",
         "RSL-AS, DE",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS39782",
+        "CH",
+        "Rack Sphere Hosting S.A.",
         "Malicious",
         "Spamhaus",
         "-"
