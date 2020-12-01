@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (00:00:54 01-12-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (06:00:54 01-12-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -99,6 +99,14 @@
         "-"
     ],
     [
+        "AS6603",
+        "US",
+        "CottonWood CyberVentures",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS6729",
         "LV",
         "SUNOKMAN-AS, LV",
@@ -142,6 +150,14 @@
         "AS7289",
         "US",
         "Platinum Internet Group",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS7309",
+        "US",
+        "The Virtual Marketing Corporation",
         "Malicious",
         "Spamhaus",
         "-"
@@ -516,7 +532,7 @@
     ],
     [
         "AS18013",
-        "HK",
+        "DE",
         "ASLINE LIMITED",
         "Malicious",
         "Spamhaus",
