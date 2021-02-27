@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE V4 RANGE BLACKLIST (06:00:40 27-02-2021) - [SUBNET,RANGESTART,RANGESTOP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE V4 RANGE BLACKLIST (12:00:38 27-02-2021) - [SUBNET,RANGESTART,RANGESTOP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "45.146.165.0\/24",
@@ -5769,6 +5769,38 @@
         "Malicious",
         "Spamhaus",
         "SBL510704"
+    ],
+    [
+        "196.54.1.0\/24",
+        "196.54.1.0",
+        "196.54.1.255",
+        "Malicious",
+        "Spamhaus",
+        "SBL517706"
+    ],
+    [
+        "196.54.156.0\/24",
+        "196.54.156.0",
+        "196.54.156.255",
+        "Malicious",
+        "Spamhaus",
+        "SBL517707"
+    ],
+    [
+        "196.55.3.0\/24",
+        "196.55.3.0",
+        "196.55.3.255",
+        "Malicious",
+        "Spamhaus",
+        "SBL517708"
+    ],
+    [
+        "196.55.228.0\/24",
+        "196.55.228.0",
+        "196.55.228.255",
+        "Malicious",
+        "Spamhaus",
+        "SBL517709"
     ],
     [
         "196.61.192.0\/20",
