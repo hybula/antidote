@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (06:00:04 25-05-2021) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (12:00:03 25-05-2021) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1699,6 +1699,14 @@
         "-"
     ],
     [
+        "AS51381",
+        "SC",
+        "1337team Limited",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS51445",
         "RO",
         "DUMICONET Dumcon Intermed SRL",
@@ -2134,6 +2142,14 @@
         "AS60394",
         "US",
         "MINOTAVAR-AS Minotavar Computers EOOD,BG",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS60424",
+        "",
+        "1337TEAM LIMITED",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3686,6 +3702,14 @@
         "AS210239",
         "UA",
         "LLC \"ISKRA\"",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS212108",
+        "ru",
+        "ZAO ELECTRICAL NETWORKS",
         "Malicious",
         "Spamhaus",
         "-"
