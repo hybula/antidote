@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (12:00:35 06-06-2021) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (18:00:35 06-06-2021) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -1246,6 +1246,14 @@
         "AS42462",
         "ES",
         "Moneyback, S.L.",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS42535",
+        "GB",
+        "Grandes Principios S.l",
         "Malicious",
         "Spamhaus",
         "-"
