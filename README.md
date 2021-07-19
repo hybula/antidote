@@ -1,2 +1,2 @@
 # Antidote
-A blocklist to keep the internet clean.
+A tailored and open database of live internet threats.
