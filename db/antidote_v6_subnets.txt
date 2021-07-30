@@ -1,11 +1,13 @@
 ###
-### ANTIDOTE V6 SUBNETS THREATLIST (06:03:45 30-07-2021)
+### ANTIDOTE V6 SUBNETS THREATLIST (18:03:46 30-07-2021)
 ### Copyright 2021 Hybula B.V. [https://www.hybula.com/terms-of-service]
 ### Copyright 2021 The Spamhaus Project [https://www.spamhaus.org/drop/terms/]
 ###
-2a03:65a0::/32
 2a0d:e500::/29
 2a0e:fa00::/29
+2a03:65a0::/32
+2a0b:d900::/29
+2a0c:c600::/32
 2a07:6800::/29
 2a09:ac80::/29
 2a0d:e7c7:ffff::/48
@@ -31,8 +33,6 @@
 2a07:9b80::/29
 2a07:7700::/29
 2a0b:f500::/29
-2a0c:c600::/32
-2a0b:d900::/29
 2a00:4c80::/29
 2a07:b300::/29
 2803:8700::/32
