@@ -1,6 +1,6 @@
 [
     [
-        "HYBULA ANTIDOTE ASN BLACKLIST (12:00:24 19-07-2021) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
+        "HYBULA ANTIDOTE ASN BLACKLIST (22:27:33 29-08-2020) - [ASN,COUNTRY,ISP,TYPE,SOURCE,COMMENT]"
     ],
     [
         "AS612",
@@ -67,14 +67,6 @@
         "-"
     ],
     [
-        "AS5755",
-        "US",
-        "QNETIX-AS",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS5784",
         "US",
         "GETNET - Getnet International, US",
@@ -94,14 +86,6 @@
         "AS6560",
         "ZA",
         "GEM Internet Company (Pty) LTD",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS6603",
-        "US",
-        "CottonWood CyberVentures",
         "Malicious",
         "Spamhaus",
         "-"
@@ -150,14 +134,6 @@
         "AS7289",
         "US",
         "Platinum Internet Group",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS7309",
-        "US",
-        "The Virtual Marketing Corporation",
         "Malicious",
         "Spamhaus",
         "-"
@@ -299,14 +275,6 @@
         "-"
     ],
     [
-        "AS10736",
-        "US",
-        "ITLTD",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS10737",
         "US",
         "BACTC - CellularONE, US",
@@ -379,6 +347,14 @@
         "-"
     ],
     [
+        "AS12679",
+        "LT",
+        "Iceberg Telecom Ltd.",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS12720",
         "BG",
         "BULGARIAONLINE , BG",
@@ -389,7 +365,7 @@
     [
         "AS13332",
         "US",
-        "HYPEENT-SJ",
+        "Hype Enterprises",
         "Malicious",
         "Spamhaus",
         "-"
@@ -397,7 +373,7 @@
     [
         "AS13389",
         "US",
-        "AZUKI",
+        "AZUKI\/ LLC",
         "Malicious",
         "Spamhaus",
         "-"
@@ -493,7 +469,7 @@
     [
         "AS17048",
         "US",
-        "AWKNET-LLC",
+        "AWKNET - Awknet Communications, LLC, US",
         "Malicious",
         "Spamhaus",
         "-"
@@ -531,14 +507,6 @@
         "-"
     ],
     [
-        "AS18013",
-        "HK",
-        "ASLINE LIMITED",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS18025",
         "PH",
         "ACE-1-WIFI-AS-AP Ace-1 Wifi Network",
@@ -549,7 +517,7 @@
     [
         "AS18586",
         "US",
-        "DIVINEHOST",
+        "DIVINEHOST - Divine Hosting Services, US",
         "Malicious",
         "Spamhaus",
         "-"
@@ -566,6 +534,14 @@
         "AS18981",
         "US",
         "IPSTRADA - Supreme Telecom Systems, Inc., US",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS19531",
+        "US",
+        "NODESDIRECT",
         "Malicious",
         "Spamhaus",
         "-"
@@ -613,7 +589,7 @@
     [
         "AS20714",
         "UA",
-        "Merlin-Telekom LLC",
+        "MERLIN-TELECOM _Merlin-Telekom_ LLC,UA",
         "Malicious",
         "Spamhaus",
         "-"
@@ -686,14 +662,6 @@
         "AS22893",
         "US",
         "CYBERWORLD-INT - Cyber World Internet Services, Inc., US",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS22979",
-        "US",
-        "DUPACO-COM-BGP",
         "Malicious",
         "Spamhaus",
         "-"
@@ -788,7 +756,7 @@
     ],
     [
         "AS26484",
-        "HK",
+        "US",
         "IKGUL-26484",
         "Malicious",
         "Spamhaus",
@@ -916,7 +884,7 @@
     ],
     [
         "AS30938",
-        "BD",
+        "GB",
         "ahbr company limited",
         "Malicious",
         "Spamhaus",
@@ -934,6 +902,14 @@
         "AS31797",
         "US",
         "Galaxyvisions Inc",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS31807",
+        "US",
+        "CLEARSURF BROADBAND",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1091,6 +1067,14 @@
         "-"
     ],
     [
+        "AS37266",
+        "ZA",
+        "AMOBIA-ASN, ZA",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS37268",
         "NG",
         "E M West Africa, Lagos, Nigeria",
@@ -1100,8 +1084,16 @@
     ],
     [
         "AS37518",
-        "SE",
+        "RU",
         "FIBERGRID",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS37692",
+        "ZA",
+        "NetStack-AS, ZA",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1165,7 +1157,7 @@
     [
         "AS40529",
         "US",
-        "CORBIXNETWORKS",
+        "CORBIXNETWORKS - Moxie Communications, Inc., CA",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1189,15 +1181,7 @@
     [
         "AS40861",
         "US",
-        "PARAD-40-ASN",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS40940",
-        "Canada",
-        "VURGE INC. (hijacked?)",
+        "Paradise Networks LLC",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1251,41 +1235,17 @@
         "-"
     ],
     [
-        "AS42457",
-        "ES",
-        "JOHNBART SOFTWARE & MUSIC S.L",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS42462",
-        "ES",
-        "Moneyback, S.L.",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS42535",
-        "GB",
-        "Grandes Principios S.l",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS42602",
-        "UA",
-        "KING-TRANS-AS, UA",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS42694",
         "MD",
         "UPLINK, MD",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS42861",
+        "RU",
+        "FOTONTELECOM Website: http:\/\/www.fotontel.ru, RU",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1316,15 +1276,15 @@
     ],
     [
         "AS43659",
-        "BG",
-        "Neterra Ltd.",
+        "DE",
+        "Cloud Computing Ltd.",
         "Malicious",
         "Spamhaus",
         "-"
     ],
     [
         "AS43945",
-        "IL",
+        "",
         "Netstyle A. Ltd",
         "Malicious",
         "Spamhaus",
@@ -1389,7 +1349,7 @@
     [
         "AS44853",
         "MD",
-        "Telehost SRL",
+        "TELEHOST, MD",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1453,7 +1413,7 @@
     [
         "AS46805",
         "US",
-        "Inter Connects Inc",
+        "CACHED - CachedNet LLC, US",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1486,6 +1446,14 @@
         "AS47500",
         "MD",
         "I-INVEST, MD",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS47510",
+        "RU",
+        "Crex Fex Pex Internet System Solutions LLC",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1526,14 +1494,6 @@
         "AS47920",
         "UA",
         "COMREC, UA",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS47967",
-        "RO",
-        "Sc Neoland Srl",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1581,7 +1541,7 @@
     [
         "AS48266",
         "RO",
-        "SC Epogen Media SRL",
+        "EPOGEN, RO",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1644,16 +1604,8 @@
     ],
     [
         "AS49443",
-        "MD",
-        "Sisteme Avansate SRL",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS49447",
         "NL",
-        "Nice IT Services Group Inc.",
+        "SISTEME, MD",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1670,14 +1622,6 @@
         "AS49643",
         "RO",
         "Holland Toner Kft",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS49671",
-        "RU",
-        "SAYDA LLC",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1718,14 +1662,6 @@
         "AS51092",
         "RU",
         "OREOL LLC",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS51381",
-        "SC",
-        "1337team Limited",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1772,8 +1708,8 @@
     ],
     [
         "AS52302",
-        "PA",
-        "Awknet International, S.A.",
+        "US",
+        "Awknet International, S.A., PA",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1796,8 +1732,8 @@
     ],
     [
         "AS52485",
-        "US",
-        "networksdelmanana.com",
+        "HN",
+        "networksdelmanana.com, HN",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1933,7 +1869,7 @@
     [
         "AS56291",
         "JP",
-        "Ace, Inc.",
+        "ACE-AS-AP Ace, Inc., JP",
         "Malicious",
         "Spamhaus",
         "-"
@@ -1944,6 +1880,14 @@
         "REBACOM-AS, NL",
         "Malicious",
         "Hybula",
+        "-"
+    ],
+    [
+        "AS56611",
+        "NL",
+        "REBACOM-AS, NL",
+        "Malicious",
+        "Spamhaus",
         "-"
     ],
     [
@@ -2011,9 +1955,9 @@
         "-"
     ],
     [
-        "AS57724",
-        "SC",
-        "Ddos-guard Ltd",
+        "AS57717",
+        "NL",
+        "FiberXpress BV",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2036,7 +1980,7 @@
     ],
     [
         "AS57858",
-        "US",
+        "SE",
         "Inter Connects Inc",
         "Malicious",
         "Spamhaus",
@@ -2078,6 +2022,14 @@
         "AS58099",
         "HK",
         "MIKIMA-AS Mikma Ltd.,UA",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS58222",
+        "RU",
+        "SOLAR-AS, GB",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2163,14 +2115,6 @@
         "-"
     ],
     [
-        "AS60424",
-        "",
-        "1337TEAM LIMITED",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS60539",
         "RO",
         "Newton Advertising S.R.L.",
@@ -2243,8 +2187,16 @@
         "-"
     ],
     [
+        "AS62068",
+        "NL",
+        "SpectraIP B.V.",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS62079",
-        "IR",
+        "ES",
         "Ibernap Management S.L.",
         "Malicious",
         "Spamhaus",
@@ -2307,6 +2259,14 @@
         "-"
     ],
     [
+        "AS62355",
+        "CH",
+        "Network Dedicated SAS",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS62485",
         "US",
         "M-GO",
@@ -2363,22 +2323,6 @@
         "-"
     ],
     [
-        "AS62922",
-        "US",
-        "Clickjet Media",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS62927",
-        "US",
-        "Moose-Tec",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS63043",
         "US",
         "ZERO DDOS LLC",
@@ -2389,7 +2333,7 @@
     [
         "AS63119",
         "US",
-        "Inter Connects Inc",
+        "NETIRONS - netirons, US",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2523,14 +2467,6 @@
         "-"
     ],
     [
-        "AS133320",
-        "IN",
-        "Alpha Infolab Private limited",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS133855",
         "CN",
         "INFOLINK-AS Infolink Communications,HK",
@@ -2574,6 +2510,14 @@
         "AS135402",
         "US",
         "COUNTRYHOST-AS-AP Flamehosting, AU",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS135555",
+        "GB",
+        "UOL-AS-AP Unbeatable Online LTD, GB",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2699,14 +2643,6 @@
         "-"
     ],
     [
-        "AS199429",
-        "RO",
-        "PFA Dinu Laurentiu Viorel",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS199432",
         "EG",
         "SKTNET Skt Netcon SRL,RO",
@@ -2789,7 +2725,15 @@
     [
         "AS200557",
         "RU",
-        "IT-KM LLC",
+        "Region40 LLC",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS200603",
+        "GB",
+        "JOB-MASTERS-SRL, RO",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2835,14 +2779,6 @@
         "-"
     ],
     [
-        "AS201292",
-        "FR",
-        "BETECH BeTech Solution SASU,FR",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS201351",
         "ZA",
         "FILMATA _FILMATA_ LTD,BG",
@@ -2869,7 +2805,7 @@
     [
         "AS201813",
         "MD",
-        "Starhost SRL",
+        "STARHOSTING, MD",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2924,24 +2860,24 @@
     ],
     [
         "AS202425",
-        "GB",
+        "NL",
         "IP Volume inc",
         "Malicious",
         "Hybula",
         "-"
     ],
     [
-        "AS202436",
-        "UA",
-        "Ovcharov Oleksandr Mykhailovych",
+        "AS202425",
+        "NL",
+        "IP Volume inc",
         "Malicious",
         "Spamhaus",
         "-"
     ],
     [
-        "AS202469",
-        "DK",
-        "IPv4 Hosting SRL",
+        "AS202436",
+        "UA",
+        "Ovcharov Oleksandr Mykhailovych",
         "Malicious",
         "Spamhaus",
         "-"
@@ -2966,6 +2902,14 @@
         "AS202533",
         "US",
         "Forcenet_LLC",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS202585",
+        "GB",
+        "NETHOSTINGTECH, GB",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3028,7 +2972,7 @@
     ],
     [
         "AS202769",
-        "DE",
+        "RO",
         "Cooperative Investments LLC",
         "Malicious",
         "Spamhaus",
@@ -3044,8 +2988,8 @@
     ],
     [
         "AS203020",
-        "FR",
-        "HostRoyale Technologies Pvt Ltd",
+        "RO",
+        "JMJ, RO",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3053,7 +2997,7 @@
     [
         "AS203025",
         "MD",
-        "Euroweb SRL",
+        "INFOCLOUD-AS, MD",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3092,16 +3036,8 @@
     ],
     [
         "AS203120",
-        "GB",
+        "",
         "Global Telecom Group LLC",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS203320",
-        "RO",
-        "Next Stride Srl",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3165,7 +3101,7 @@
     [
         "AS203950",
         "MD",
-        "Viasat Cloud SRL",
+        "INFOCLOUD, MD",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3182,14 +3118,6 @@
         "AS204085",
         "GB",
         "Next Global Services L.p.",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS204089",
-        "RO",
-        "Neoland SRL",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3243,14 +3171,6 @@
         "-"
     ],
     [
-        "AS204293",
-        "UA",
-        "LLC SOLAR STRATEGIA",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS204333",
         "DE",
         "KING-HEBERG, EE",
@@ -3269,23 +3189,23 @@
     [
         "AS204655",
         "NL",
-        "Novogara LTD",
+        "NOVOGARA-AS, NL",
         "Malicious",
         "Hybula",
         "-"
     ],
     [
-        "AS204815",
-        "UA",
-        "AS204815 LLC SOLAR STRATEGIA",
+        "AS204655",
+        "NL",
+        "NOVOGARA-AS, NL",
         "Malicious",
         "Spamhaus",
         "-"
     ],
     [
         "AS204872",
-        "IT",
-        "Starhost SRL",
+        "MD",
+        "STARHOST, MD",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3307,17 +3227,25 @@
         "-"
     ],
     [
-        "AS205124",
-        "ES",
-        "Telehost SRL",
+        "AS205021",
+        "",
+        "Creative One LLC",
         "Malicious",
         "Spamhaus",
         "-"
     ],
     [
-        "AS205145",
-        "US",
-        "Start Telecom LLC",
+        "AS205124",
+        "MD",
+        "AS_TELEHOST_COLO, MD",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS205422",
+        "BR",
+        "GIGACOLLOCATIONLLC, FR",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3326,14 +3254,6 @@
         "AS205565",
         "GB",
         "BASETELECOMMUNICATIONSLLP, GB",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS205692",
-        "UA",
-        "Webinvest Plus LLC",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3411,6 +3331,14 @@
         "-"
     ],
     [
+        "AS205920",
+        "RU",
+        "XAGONHOSTINGLLC, PT",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS205944",
         "US",
         "MEDIACLICK, US",
@@ -3477,7 +3405,7 @@
     [
         "AS206352",
         "GB",
-        "Media Connective LLP",
+        "MEDIACONNECTIVE, GB",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3507,14 +3435,6 @@
         "-"
     ],
     [
-        "AS206592",
-        "ES",
-        "Rockthetraveller, SL",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS206644",
         "MD",
         "Ianciuc Invest Srl",
@@ -3525,7 +3445,7 @@
     [
         "AS206654",
         "MD",
-        "Tehnoinstal Srl",
+        "TEHNOINSTAL, MD",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3603,8 +3523,16 @@
         "-"
     ],
     [
+        "AS207239",
+        "CZ",
+        "VPINET, CZ",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS208476",
-        "RU",
+        "DE",
         "Danilenko, Artyom",
         "Malicious",
         "Spamhaus",
@@ -3661,7 +3589,7 @@
     [
         "AS209723",
         "GB",
-        "AS_EXPERT, GB",
+        "EXPERT NETCLOUD LLP",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3683,25 +3611,9 @@
         "-"
     ],
     [
-        "AS209896",
-        "NL",
-        "Infocloud Group Srl",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS209946",
-        "UA",
-        "ALINDA LLC",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS210015",
-        "CZ",
-        "Interface Services LLC",
+        "AS209999",
+        "DE",
+        "ASINTSOLLLC, DE",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3715,49 +3627,9 @@
         "-"
     ],
     [
-        "AS212108",
-        "ru",
-        "ZAO ELECTRICAL NETWORKS",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS212177",
-        "ES",
-        "Agustin de Diego Ferrer",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS212578",
-        "ES",
-        "Species Media Marketing Sl",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS212811",
-        "GB",
-        "Eurowaste Management Srl",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
         "AS213058",
-        "NL",
+        "BZ",
         "Private Internet Hosting LTD",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS213137",
-        "NL",
-        "Infocloud Srl",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3774,14 +3646,6 @@
         "AS213322",
         "LT",
         "Venito Reklama, UAB",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS213367",
-        "DE",
-        "Neoland Logic Solutions SRL",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3860,8 +3724,8 @@
     ],
     [
         "AS263821",
-        "US",
-        "Soluciones Favorables",
+        "HN",
+        "Soluciones Favorables, HN",
         "Malicious",
         "Spamhaus",
         "-"
@@ -3987,9 +3851,25 @@
         "-"
     ],
     [
+        "AS395978",
+        "PA",
+        "OKSERVERS - OkServers LLC, US",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
         "AS396412",
         "US",
         "Broadband Zone, LLC",
+        "Malicious",
+        "Spamhaus",
+        "-"
+    ],
+    [
+        "AS397539",
+        "US",
+        "LAKSH CYBERSECURITY AND DEFENSE LLC",
         "Malicious",
         "Spamhaus",
         "-"
@@ -4000,38 +3880,6 @@
         "GUIDANCE-HOSTING",
         "Malicious",
         "Spamhaus",
-        "-"
-    ],
-    [
-        "AS398968",
-        "US",
-        "GROUP-IID-01",
-        "Malicious",
-        "Spamhaus",
-        "-"
-    ],
-    [
-        "AS51942",
-        "Malicious",
-        "Hybula",
-        "-"
-    ],
-    [
-        "AS200097",
-        "Malicious",
-        "Hybula",
-        "-"
-    ],
-    [
-        "AS51447",
-        "Malicious",
-        "Hybula",
-        "-"
-    ],
-    [
-        "AS198375",
-        "Malicious",
-        "Hybula",
         "-"
     ]
 ]
