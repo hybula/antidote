@@ -1,7 +1,9 @@
 # Antidote
-A tailored and open source database of IP addresses and subnets for a safer internet.
+A tailored, free and open source database of IP addresses and subnets for a safer internet.
 
-### Blocklists
+### Features
+
+#### Blocklists
 A combined blocklist powered by the public lists of the following providers/projects:
 - Hybula [Antidote Honeypots]
 - Hybula [Network Threats]
@@ -12,9 +14,9 @@ A combined blocklist powered by the public lists of the following providers/proj
 - DShield [Block]
 - Abuse.ch [Feodo Tracker]
 
-The lists are provided in a basic .txt file, with an IP on each line.
+The lists are provided in a basic .txt file, with an entry on each line.
 
-### Good Bot List
+#### Good Bot List
 Multiple lists containing good bots from trusted sources, these are mainly from crawlers.
 - Google Search
 - Google Bots
@@ -22,5 +24,13 @@ Multiple lists containing good bots from trusted sources, these are mainly from 
 
 The lists are provided in several formats, a basic .txt file like the blocklists, a JSON file and an Nginx geo map file.
 
-### TODO
-This README.md will be improved and updated as soon as possible.
+### Sponsored
+This project is developed and sponsored by [Hybula B.V.](https://www.hybula.com/)
+<p>
+  <a href="https://www.hybula.com/">
+    <img src="https://www.hybula.com/assets/hybula/logo/logo-primary.svg" height="40px">
+  </a>
+</p>
+
+### License
+```Apache License, Version 2.0 and the Commons Clause Restriction```
