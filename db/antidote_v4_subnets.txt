@@ -1,5 +1,5 @@
 ###
-### ANTIDOTE V4 SUBNETS THREATLIST (12:00:10 16-11-2025)
+### ANTIDOTE V4 SUBNETS THREATLIST (18:00:08 16-11-2025)
 ### Copyright 2025 Hybula B.V. [https://www.hybula.com/terms-of-service]
 ### Copyright 2025 DShield.org [https://creativecommons.org/licenses/by-nc-sa/2.5/]
 ### Copyright 2025 The Spamhaus Project [https://www.spamhaus.org/drop/terms/]
@@ -614,6 +614,8 @@
 138.125.0.0/16
 138.185.116.0/22
 138.219.172.0/22
+138.226.236.0/23
+138.226.238.0/24
 138.249.0.0/16
 139.183.192.0/18
 139.190.234.0/24
@@ -1096,6 +1098,7 @@
 198.177.214.0/24
 198.177.216.0/24
 198.179.22.0/24
+198.180.189.0/24
 198.181.96.0/20
 198.183.32.0/19
 198.184.193.0/24
